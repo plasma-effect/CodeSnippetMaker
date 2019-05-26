@@ -1,2 +1,7 @@
 # CodeSnippetMaker
-Code Snippet for Visual Studio 2019 Maker
+Visual Studio 2019用のコードスニペットファイルを生成する簡易プログラムです。  
+このプログラムはMITライセンスが適用されます(LICENSEを見てね)。
+# 使い方
+- ソリューションを開く
+- ビルドする
+- プログラムを起動する
